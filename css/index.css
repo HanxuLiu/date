@@ -116,7 +116,7 @@ html,body{
 
 .seconds {
     margin-top: 10px;
-    font-size: 32px;
+    font-size: 42px;
     font-family: "Monda_bo", Georgia, sans-serif;
     width: auto;
     text-align: center;
@@ -134,12 +134,12 @@ html,body{
     position: absolute;
 }
 .days {
-    font-size: 40px;
+    font-size: 60px;
     width: auto;
     text-align: center;
 }
 .words {
-    font-size: 50px;
+    font-size: 60px;
     font-family: 'Regular', cursive;
     width: auto;
     text-align: center;
